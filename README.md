@@ -1,4 +1,4 @@
-# Uber Ride Analytics Dashboard 2024
+# Uber Ride Analytics
 
 End-to-end data analytics project analyzing ride-sharing operational performance, cancellation behavior, revenue distribution, and customer satisfaction using Python for data processing and Tableau Public for interactive visualization.
 
